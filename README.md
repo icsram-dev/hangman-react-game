@@ -10,6 +10,4 @@ Egyszerű akasztófa játék. A játék célja, hogy kitaláld a véletlenszerű
 
 - Ha a felhasználó kitalálja az összes betűt, megnyeri a játékot.
 
-React
-Vite
-Tailwind CSS
+React, Vite, Tailwind CSS
